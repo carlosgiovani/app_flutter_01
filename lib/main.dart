@@ -43,8 +43,7 @@ void main() {
                   )
                 ],
               ),
-              Text(
-                "Pode Entrar!",
+              Text("Pode Entrar!",
                 style: TextStyle(
                     color: Colors.white,
                     fontStyle: FontStyle.italic,
